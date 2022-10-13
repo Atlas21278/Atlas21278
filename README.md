@@ -21,6 +21,16 @@ __❓ POURQUOI LE BTS SIO ?__
 __👨‍💻TYPE D'ETUDIANT__ 
 >Curieux, motivé
 
+
+__💻LANGAGE INFORMATIQUE EN COURS D'APPRENTISSAGE__ 
+>JAVA 
+
+>HTML/CSS 
+
+>PYTHON
+
+>TYPESCRIPT 
+
 __🎯MES LOISIRS__ 
  * 🤼‍♂️Lutte 
  * ✈️Voyage 
