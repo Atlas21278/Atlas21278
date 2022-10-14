@@ -40,6 +40,6 @@ __🎯MES LOISIRS__
 
 __🧩MES PASSIONS__ 
 
- * 🎬♂️animation Japonaise  
+ * 🎬animation Japonaise  
  * 🎮Jeux Vidéo
  * 🎵Musiques
